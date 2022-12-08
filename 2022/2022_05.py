@@ -4,7 +4,6 @@ By: David Leber
 """
 
 from aocd.models import Puzzle, User
-import pandas as pd
 
 year = 2022
 day = 5
